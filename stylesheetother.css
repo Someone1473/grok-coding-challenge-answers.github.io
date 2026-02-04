@@ -20,12 +20,12 @@ button {
     border-color: #E5D0CC;
     border-width: 6px;
     background-color: #444554;
-    font-size: 60px;
+    font-size: 40px;
     align-self: center;
     color:#E5D0CC;
     border-radius: 6px;
     width: 900px;
-    height: 200px;
+    height: 100px;
     
     
 }
@@ -37,7 +37,7 @@ button:hover {
 
 div {
     max-width: 900px;
-    max-height: 200px;
+    max-height: 100px;
     margin-top: auto;
     margin-bottom: auto;
     margin-left: auto;
